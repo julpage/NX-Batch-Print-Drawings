@@ -1,0 +1,16 @@
+C:\Users\K\Desktop\t8_prtDwg_nx1872\PRTHandler\obj\x64\Debug\PRTHandler.csprojAssemblyReference.cache
+C:\Users\K\Desktop\t8_prtDwg_nx1872\PRTHandler\obj\x64\Debug\PRTHandler.csproj.CoreCompileInputs.cache
+C:\Users\K\Desktop\t8_prtDwg_nx1872\PRTHandler\bin\Debug\PRTHandler.exe
+C:\Users\K\Desktop\t8_prtDwg_nx1872\PRTHandler\bin\Debug\PRTHandler.pdb
+C:\Users\K\Desktop\t8_prtDwg_nx1872\PRTHandler\obj\x64\Debug\PRTHandler.exe
+C:\Users\K\Desktop\t8_prtDwg_nx1872\PRTHandler\obj\x64\Debug\PRTHandler.pdb
+C:\Users\K\Desktop\t8_prtDwg_nx1872\PRTHandler\obj\x64\Debug\PRTHandler.MainForm.resources
+C:\Users\K\Desktop\t8_prtDwg_nx1872\PRTHandler\obj\x64\Debug\PRTHandler.csproj.GenerateResource.cache
+D:\NX-Batch-Print-Drawings\WindowsFormsApp1\bin\Debug\PRTHandler.exe
+D:\NX-Batch-Print-Drawings\WindowsFormsApp1\bin\Debug\PRTHandler.pdb
+D:\NX-Batch-Print-Drawings\WindowsFormsApp1\obj\x64\Debug\PRTHandler.csproj.AssemblyReference.cache
+D:\NX-Batch-Print-Drawings\WindowsFormsApp1\obj\x64\Debug\PRTHandler.MainForm.resources
+D:\NX-Batch-Print-Drawings\WindowsFormsApp1\obj\x64\Debug\PRTHandler.csproj.GenerateResource.cache
+D:\NX-Batch-Print-Drawings\WindowsFormsApp1\obj\x64\Debug\PRTHandler.csproj.CoreCompileInputs.cache
+D:\NX-Batch-Print-Drawings\WindowsFormsApp1\obj\x64\Debug\PRTHandler.exe
+D:\NX-Batch-Print-Drawings\WindowsFormsApp1\obj\x64\Debug\PRTHandler.pdb
